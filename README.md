@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalpana-Kathait11
 - 👀 I’m interested in new technologies and focusing towards to technologies.
-- 🌱 I’m currently learning Prgramming, web development.
-- 💞️ I’m looking to collaborate on Web development using HTML, CSS , Javascript, Bootstrap .
+- 🌱 I’m currently learning Prgramming, web development using HTML, CSS , Javascript, Bootstrap .
+- 💞️ Still, I have no any experience and improving my skills.
 - 📫 How to reach me KALPANAKATHAIT11@GMAIL.COM
 
 <!---
