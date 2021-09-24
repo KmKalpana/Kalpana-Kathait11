@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone👋, I'm Kalpana Kathait</h1>
-<h2 aligh="center">Hello! I am 2nd-year B.Tech Computer Science Engineering Undergraduate Student. </h2>
+<h2 aligh="center">I am 2nd-year B.Tech (Computer Science Engineering) Undergraduate Student. </h2>
 <h3 align="center">A passionate about Web Development and Pen-Testing.</h3>
 
 - 🔭 I’m currently working on **Programming and Web development**
