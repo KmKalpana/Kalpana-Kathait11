@@ -1,12 +1,12 @@
 <h1 align="center">Hello Everyone👋, I'm Kalpana Kathait</h1>
-<h2 aligh="center">I am 2nd-year B.Tech Undergraduate Student from Graphic Era University. </h2>
+<h2 aligh="center">I am 2nd-year B.Tech Undergraduate Student from <a href="https://www.geu.ac.in/">Graphic Era University,Dehradun</a> </h2>
 <h3 align="center">A passionate about Web Development and Pen-Testing.</h3>
 
-- 🔭 I’m currently working on **Programming and Web development**
+- 🔭 I’m currently working on **Programming and Web development.**
 
-- 🌱 I’m currently learning **C++,Python,Js,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap)**
+- 🌱 I’m currently learning **C++,Python,Js,PHP, Linux, Web development(HTML,CSS,JS,jQuery,Bootstrap).**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development.**
 
 - 💬 Ask me about **Web development,Programming and other regarding Technology.**
 
